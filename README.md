@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pushitShriya
-- 👀 I’m an engineering student
+- 👋 Hi, I’m @pushitShriya.
+- 👀 I’m an engineering student.
 - 🌱 I’m currently learning web-dev , Python and C.
-- 😄 Pronouns: My pronouns are she/her
+- 😄 Pronouns: My pronouns are she/her.
 
 <!---
 pushitShriya/pushitShriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
