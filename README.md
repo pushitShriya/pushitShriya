@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pushitShriya.
+- 👋 Hi, I’m Shriya.
 - 👀 I’m an engineering student.
-- 🌱 I’m currently learning web-dev , Python and C.
+- 🌱 I’m currently learning web-dev , Python and C/C++.
 - 😄 Pronouns: My pronouns are she/her.
 
 <!---
